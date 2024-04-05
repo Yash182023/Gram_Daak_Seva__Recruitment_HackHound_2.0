@@ -36,7 +36,7 @@ Gram Daak Sevak Candidates Selection Page is a Streamlit web application designe
 
 1.Run the Streamlit application:
     ```python
-    streamlit run app.py
+        streamlit run app.py
 
 2.Open the provided URL in your web browser to access the application.
 
