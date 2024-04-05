@@ -32,7 +32,7 @@ Gram Daak Sevak Candidates Selection Page is a Streamlit web application designe
 3. Install the required dependencies:
    ```python
    pip install -r requirements.txt
-4. ##Usage
+## Usage
 
 1.Run the Streamlit application:
     ```python
@@ -42,6 +42,6 @@ Gram Daak Sevak Candidates Selection Page is a Streamlit web application designe
 
 3.Upload a CSV file containing candidate data and explore the features of the application.
 
-LICENSE
+## LICENSE
 This project is licensed under the MIT License
 
