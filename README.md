@@ -34,13 +34,13 @@ Gram Daak Sevak Candidates Selection Page is a Streamlit web application designe
    pip install -r requirements.txt
 ## Usage
 
-1.Run the Streamlit application:
+1. Run the Streamlit application:
     ```python
         streamlit run app.py
 
-2.Open the provided URL in your web browser to access the application.
+2. Open the provided URL in your web browser to access the application.
 
-3.Upload a CSV file containing candidate data and explore the features of the application.
+3. Upload a CSV file containing candidate data and explore the features of the application.
 
 ## LICENSE
 This project is licensed under the MIT License
