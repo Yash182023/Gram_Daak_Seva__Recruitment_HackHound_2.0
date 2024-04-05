@@ -1,0 +1,101 @@
+Board_Name,Student_Name,Roll_Number,Maths_Marks,Science_Marks,English_Marks,Social_Studies_Marks,Extra_Language_Marks,Total_Marks,Primary_Language,Sports_Played,Year,Difficulty_Level,No_PYQs
+Punjab_Board,Sophia Anderson,RA101,91,94,2,85,38,310,Hindi,Cricket,2018,Hard ,12
+Telangana_Board,Emily Brown,RA102,25,100,20,35,39,219,Telugu,Football,2016,Medium,5
+Sikkim_Board,Emily Brown,RA103,59,77,50,31,30,247,Tamil,Kabbadi,2020,Easy,2
+Gujarat_Board,Abigail Thompson,RA104,36,16,1,100,100,253,Malayalam,Khokho,2018,Hard ,4
+Gujarat_Board,Jane Smith,RA105,66,83,62,40,16,267,Odiya,Gili_Danda,2016,Medium,10
+Haryana_Board,William Davis,RA106,3,4,46,17,55,125,Maithili,Cricket,2020,Easy,20
+Andhra_Pradesh_Board,Emily Brown,RA107,39,7,9,52,85,192,Hindi,Football,2018,Hard ,12
+Mizoram_Board,Alexander Hernandez,RA108,3,6,38,42,85,174,Telugu,Kabbadi,2016,Medium,5
+Andhra_Pradesh_Board,Emma Moore,RA109,76,36,12,3,93,220,Tamil,Khokho,2020,Easy,2
+Manipur_Board,Ava Jackson,RA1010,50,43,0,88,64,245,Malayalam,Gili_Danda,2018,Hard ,4
+CBSE_Board,Joseph Martin,RA1011,32,15,33,82,51,213,Odiya,Cricket,2016,Medium,10
+Telangana_Board,Joseph Martin,RA1012,77,66,43,39,45,270,Maithili,Football,2020,Easy,20
+Maharashtra_Board,Christopher Nelson,RA1013,24,100,15,18,49,206,Hindi,Kabbadi,2018,Hard ,12
+Sikkim_Board,Mia Harris,RA1014,58,55,100,33,24,270,Telugu,Khokho,2016,Medium,5
+Assam_Board,William Davis,RA1015,63,60,34,69,37,263,Tamil,Gili_Danda,2020,Easy,2
+Chhattisgarh_Board,Olivia Wilson,RA1016,1,41,86,78,10,216,Malayalam,Cricket,2018,Medium,4
+Haryana_Board,Joseph Martin,RA1017,21,99,93,92,36,341,Odiya,Football,2016,Easy,10
+Arunachal_Pradesh_Board,Sophia Anderson,RA1018,90,50,82,42,65,329,Maithili,Kabbadi,2020,Hard ,20
+Uttarakhand_Board,Sophia Anderson,RA1019,26,70,57,13,79,245,Hindi,Khokho,2018,Medium,12
+Manipur_Board,Michael Johnson,RA1020,78,47,15,16,79,235,Telugu,Gili_Danda,2016,Easy,5
+Andhra_Pradesh_Board,Joseph Martin,RA1021,88,69,97,94,60,408,Tamil,Cricket,2020,Hard ,2
+Gujarat_Board,Ava Jackson,RA1022,51,21,50,76,30,228,Malayalam,Football,2018,Medium,4
+Arunachal_Pradesh_Board,Emily Brown,RA1023,72,68,58,57,36,291,Odiya,Kabbadi,2016,Easy,10
+Sikkim_Board,Ava Jackson,RA1024,90,96,74,9,57,326,Maithili,Khokho,2020,Hard ,20
+Manipur_Board,James Martinez,RA1025,81,59,71,45,62,318,Hindi,Gili_Danda,2018,Medium,12
+CBSE_Board,Michael Johnson,RA1026,99,6,86,78,75,344,Telugu,Cricket,2016,Easy,5
+Uttar_Pradesh_Board,Michael Johnson,RA1027,19,31,16,69,16,151,Tamil,Football,2020,Hard ,2
+Punjab_Board,Mia Harris,RA1028,15,37,97,80,72,301,Malayalam,Kabbadi,2018,Medium,4
+Mizoram_Board,Mia Harris,RA1029,25,62,53,63,26,229,Odiya,Khokho,2016,Easy,10
+Uttar_Pradesh_Board,Olivia Wilson,RA1030,48,9,2,68,87,214,Maithili,Gili_Danda,2020,Hard ,20
+Uttarakhand_Board,Christopher Nelson,RA1031,11,0,56,86,80,233,Hindi,Cricket,2018,Medium,12
+Meghalaya_Board,Ava Jackson,RA1032,80,99,77,31,62,349,Telugu,Football,2016,Easy,5
+Odisha_Board,Sofia Clark,RA1033,50,22,33,17,29,151,Tamil,Kabbadi,2020,Hard ,2
+Maharashtra_Board,Michael Johnson,RA1034,85,60,11,85,38,279,Malayalam,Khokho,2018,Easy,4
+Uttar_Pradesh_Board,Matthew Garcia,RA1035,24,80,21,13,83,221,Odiya,Gili_Danda,2016,Hard ,10
+Telangana_Board,Matthew Garcia,RA1036,79,1,25,50,47,202,Maithili,Cricket,2020,Medium,20
+Telangana_Board,William Davis,RA1037,62,36,30,16,45,189,Hindi,Football,2018,Easy,12
+Tripura_Board,John Doe,RA1038,8,90,94,2,55,249,Telugu,Kabbadi,2016,Hard ,5
+Gujarat_Board,Michael Johnson,RA1039,58,49,78,89,74,348,Tamil,Khokho,2020,Medium,2
+Goa_Board,Matthew Garcia,RA1040,84,20,95,38,76,313,Malayalam,Gili_Danda,2018,Easy,4
+Haryana_Board,Emily Brown,RA1041,44,97,98,70,32,341,Odiya,Cricket,2016,Hard ,10
+Rajasthan_Board,James Martinez,RA1042,38,3,12,64,33,150,Maithili,Football,2020,Medium,20
+Madhya_Pradesh_Board,Ava Jackson,RA1043,65,53,18,53,88,277,Hindi,Kabbadi,2018,Easy,12
+Nagaland_Board,William Davis,RA1044,58,11,49,88,19,225,Telugu,Khokho,2016,Hard ,5
+Jharkhand_Board,William Davis,RA1045,51,84,3,59,17,214,Tamil,Gili_Danda,2020,Medium,2
+Uttar_Pradesh_Board,Sofia Clark,RA1046,91,98,2,93,28,312,Malayalam,Cricket,2018,Easy,4
+Uttarakhand_Board,Sofia Clark,RA1047,77,69,11,87,95,339,Odiya,Football,2016,Hard ,10
+Bihar_Board,Mia Harris,RA1048,70,93,34,5,81,283,Maithili,Kabbadi,2020,Medium,20
+Goa_Board,Daniel Taylor,RA1049,86,48,87,24,88,333,Hindi,Khokho,2018,Easy,12
+Mizoram_Board,Sofia Clark,RA1050,27,46,40,98,61,272,Telugu,Gili_Danda,2016,Hard ,5
+Arunachal_Pradesh_Board,Isabella Thomas,RA1051,73,82,83,84,89,411,Tamil,Cricket,2020,Medium,2
+Andhra_Pradesh_Board,John Doe,RA1052,63,81,26,32,29,231,Malayalam,Football,2018,Easy,4
+Mizoram_Board,John Doe,RA1053,35,53,3,46,96,233,Odiya,Kabbadi,2016,Hard ,10
+Madhya_Pradesh_Board,Isabella Thomas,RA1054,100,18,59,15,98,290,Maithili,Khokho,2020,Medium,20
+Andhra_Pradesh_Board,John Doe,RA1055,2,34,45,83,7,171,Hindi,Gili_Danda,2018,Easy,12
+Himachal_Pradesh_Board,Olivia Wilson,RA1056,48,0,50,16,38,152,Telugu,Cricket,2016,Hard ,5
+Kerala_Board,Mia Harris,RA1057,59,31,100,46,85,321,Tamil,Football,2020,Medium,2
+Tamil_Nadu_Board,Sofia Clark,RA1058,45,61,56,22,25,209,Malayalam,Kabbadi,2018,Easy,4
+CBSE_Board,Emily Brown,RA1059,46,60,31,89,85,311,Odiya,Khokho,2016,Hard ,10
+Madhya_Pradesh_Board,Emma Moore,RA1060,56,1,39,30,78,204,Maithili,Gili_Danda,2020,Medium,20
+Odisha_Board,Isabella Thomas,RA1061,28,32,39,46,12,157,Hindi,Cricket,2018,Easy,12
+Andhra_Pradesh_Board,James Martinez,RA1062,91,47,67,36,39,280,Telugu,Football,2016,Hard ,5
+Haryana_Board,Emma Moore,RA1063,82,57,62,12,26,239,Tamil,Kabbadi,2020,Medium,2
+Manipur_Board,Daniel Taylor,RA1064,80,68,0,70,68,286,Malayalam,Khokho,2018,Easy,4
+Gujarat_Board,Sofia Clark,RA1065,82,21,64,3,61,231,Odiya,Gili_Danda,2016,Hard ,10
+Bihar_Board,Abigail Thompson,RA1066,24,16,39,43,32,154,Maithili,Cricket,2020,Medium,20
+Rajasthan_Board,Alexander Hernandez,RA1067,92,21,25,72,11,221,Hindi,Football,2018,Easy,12
+Nagaland_Board,Isabella Thomas,RA1068,36,83,11,55,60,245,Telugu,Kabbadi,2016,Hard ,5
+Tamil_Nadu_Board,Mia Harris,RA1069,65,33,3,78,27,206,Tamil,Khokho,2020,Medium,2
+Tripura_Board,Matthew Garcia,RA1070,86,24,53,75,37,275,Malayalam,Gili_Danda,2018,Easy,4
+Chhattisgarh_Board,Ava Jackson,RA1071,48,86,1,9,73,217,Odiya,Cricket,2016,Hard ,10
+Tamil_Nadu_Board,Olivia Wilson,RA1072,33,37,10,91,82,253,Maithili,Football,2020,Medium,20
+Uttarakhand_Board,Sofia Clark,RA1073,41,63,35,49,54,242,Hindi,Kabbadi,2018,Easy,12
+Assam_Board,Michael Johnson,RA1074,0,30,47,30,94,201,Telugu,Khokho,2016,Hard ,5
+Jharkhand_Board,Michael Johnson,RA1075,1,82,66,9,66,224,Tamil,Gili_Danda,2020,Medium,2
+Arunachal_Pradesh_Board,Daniel Taylor,RA1076,70,90,94,57,10,321,Malayalam,Cricket,2018,Easy,4
+CBSE_Board,William Davis,RA1077,94,65,25,97,73,354,Odiya,Football,2016,Hard ,10
+Sikkim_Board,Sofia Clark,RA1078,15,54,86,99,17,271,Maithili,Kabbadi,2020,Medium,20
+Maharashtra_Board,Jane Smith,RA1079,83,39,72,80,0,274,Hindi,Khokho,2018,Easy,12
+Himachal_Pradesh_Board,Emily Brown,RA1080,100,77,27,52,46,302,Telugu,Gili_Danda,2016,Hard ,5
+Punjab_Board,Sofia Clark,RA1081,41,1,17,86,90,235,Tamil,Null,2020,Medium,2
+Kerala_Board,Daniel Taylor,RA1082,18,59,85,80,91,333,Malayalam,Null,2018,Easy,4
+Chhattisgarh_Board,Isabella Thomas,RA1083,50,71,5,55,74,255,Odiya,Khokho,2016,Hard ,10
+Sikkim_Board,Isabella Thomas,RA1084,46,3,62,71,4,186,Maithili,Gili_Danda,2020,Medium,20
+Rajasthan_Board,William Davis,RA1085,62,6,41,27,6,142,Hindi,Null,2018,Easy,10
+Nagaland_Board,Emma Moore,RA1086,63,41,47,20,88,259,Telugu,Null,2016,Hard ,20
+Tripura_Board,John Doe,RA1087,7,19,71,100,65,262,Tamil,Football,2020,Medium,12
+Punjab_Board,Emily Brown,RA1088,24,92,71,66,34,287,Malayalam,Kabbadi,2018,Easy,5
+Odisha_Board,Sophia Anderson,RA1089,65,13,25,88,77,268,Odiya,Null,2016,Hard ,2
+Mizoram_Board,James Martinez,RA1090,48,2,47,32,85,214,Maithili,Null,2020,Medium,4
+Himachal_Pradesh_Board,Abigail Thompson,RA1091,47,87,29,1,10,174,Hindi,Football,2018,Easy,10
+Meghalaya_Board,Mia Harris,RA1092,67,15,72,78,50,282,Telugu,Kabbadi,2016,Hard ,10
+Nagaland_Board,Matthew Garcia,RA1093,58,39,10,90,1,198,Tamil,Null,2020,Medium,20
+Assam_Board,David White,RA1094,94,24,44,56,24,242,Malayalam,Null,2018,Easy,12
+Tamil_Nadu_Board,Michael Johnson,RA1095,4,3,15,11,6,39,Odiya,Football,2016,Hard ,5
+Uttarakhand_Board,Olivia Wilson,RA1096,67,76,36,12,60,251,Maithili,Kabbadi,2020,Medium,2
+Andhra_Pradesh_Board,Isabella Thomas,RA1097,51,7,78,42,88,266,Hindi,Null,2018,Easy,4
+Maharashtra_Board,Isabella Thomas,RA1098,61,69,84,85,4,303,Telugu,Null,2016,Hard ,10
+Jharkhand_Board,Isabella Thomas,RA1099,25,15,71,49,81,241,Odiya,Football,2020,Medium,12
+Meghalaya_Board,Daniel Taylor,RA10100,94,84,23,97,100,398,Maithili,Kabbadi,2018,Easy,3
