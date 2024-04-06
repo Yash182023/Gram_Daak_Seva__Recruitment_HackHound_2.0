@@ -3,6 +3,7 @@
 Gram Daak Sevak Candidates Selection Page is a *Web Application* designed to facilitate the selection process for candidates applying for "Gram Daak Sevak" positions. The application allows users to upload a CSV file containing candidate data, perform calculations to determine candidate results, visualize candidate performance, and filter candidates based on various criteria.
 
 Website URL - https://gramdaakseva.streamlit.app/
+PPT_Link - https://drive.google.com/file/d/1ffNVRB2-hPQPh6F00H6m8NOI_FRB_Uhn/view?usp=sharing
 ## Key Features
 
 - **Upload CSV File:** Users can upload a CSV file containing candidate data, including information such as student names, roll numbers, marks in different subjects, board names, primary languages, sports played, difficulty levels, number of previous year questions (PYQs), and the year of examination.
