@@ -16,10 +16,10 @@ Website URL - https://gramdaakseva.streamlit.app/
   - **Without Normalization:** Determines candidate results based on the total percentage of marks. Candidates scoring above a threshold (e.g., 90%) are marked as "Passed."
 
 - **USP:**
-  A comparison is shown between the previous method and new method selection
-  List of deserving candidates based on their total score is displayed before normalization.
-  List of deserving candidates based on their normalized score is displayed after normalization.
-  Then a table is displayed containing those undeserved candidates that were first selected(before normalization) but are rejected on the basis of their normalized score which is a fair and uniform criteria for selection.
+  - A comparison is shown between the previous method and new method selection
+  - List of deserving candidates based on their total score is displayed before normalization.
+  - List of deserving candidates based on their normalized score is displayed after normalization.
+  - Then a table is displayed containing those undeserved candidates that were first selected(before normalization) but are rejected on the basis of their normalized score which is a fair and uniform criteria for selection.
 
 
 - **Visualize Results:**
