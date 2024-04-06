@@ -45,16 +45,28 @@ Welcome to the Gram Daak Sevak Candidates Selection Page! This web application i
 
 2. **Calculate Results:**
    - **With Normalization:** Determine candidate results based on normalized scores calculated using total marks, mean, and standard deviation.
+       Then calculates the difficulty factor of respective board exam based on the TOP SCORES. 
+       Normalized marks = difficulty scale factor *  standard marks
+       Candidates are categorized as "Passed" or "Failed" based on their normalized scores.
+       [Passed - above mean,
+       Failed - below mean]
    - **Without Normalization:** Calculate candidate results based on the total percentage of marks, marking candidates scoring above a threshold (e.g., 90%) as "Passed."
 
-3. **Visualize Results:**
+
+3. **USP (Unique Selling Product):**
+  - A comparison is shown between the previous method and new method for selection.
+  - List of deserving candidates based on their total score is displayed before normalization.
+  - List of deserving candidates based on their normalized score is displayed after normalization.
+  - Then a table is displayed containing those undeserved candidates that were first selected(before normalization) but are rejected on the basis of their normalized score which is a fair and uniform criteria for selection.
+
+4. **Visualize Results:**
    - **Histogram:** View the distribution of normalized scores for passed and failed candidates.
    - **Line Chart:** Explore the trend of normalized scores for passed candidates against their candidate index.
    - **Bar Chart:** Visualize the number of PYQs for different difficulty levels across different years.
 
-4. **Filter Candidates:** Filter candidates based on their primary language and sports played.
+5. **Filter Candidates:** Filter candidates based on their primary language and sports played.
 
-5. **Summary and Insights:** Gain insights into candidate counts before and after normalization, identify candidates not selected after normalization, and explore the number of PYQs across different difficulty levels and years.
+6. **Summary and Insights:** Gain insights into candidate counts before and after normalization, identify candidates not selected after normalization, and explore the number of PYQs across different difficulty levels and years.
 
 ## Conclusion:
 
