@@ -1,6 +1,6 @@
 # Gram Daak Sevak Candidates Selection Page
 
-Gram Daak Sevak Candidates Selection Page is a Streamlit web application designed to facilitate the selection process for candidates applying for Gram Daak Sevak positions. The application allows users to upload a CSV file containing candidate data, perform calculations to determine candidate results, visualize candidate performance, and filter candidates based on various criteria.
+Gram Daak Sevak Candidates Selection Page is a Web Application designed to facilitate the selection process for candidates applying for "Gram Daak Sevak" positions. The application allows users to upload a CSV file containing candidate data, perform calculations to determine candidate results, visualize candidate performance, and filter candidates based on various criteria.
 
 Website URL - https://gramdaakseva.streamlit.app/
 ## Key Features
@@ -8,8 +8,19 @@ Website URL - https://gramdaakseva.streamlit.app/
 - **Upload CSV File:** Users can upload a CSV file containing candidate data, including information such as student names, roll numbers, marks in different subjects, board names, primary languages, sports played, difficulty levels, number of previous year questions (PYQs), and the year of examination.
 
 - **Calculate Results:**
-  - **With Normalization:** Calculates normalized scores based on total marks, mean, and standard deviation. Candidates are categorized as "Passed" or "Failed" based on their normalized scores.
+  - **With Normalization:** Calculates normalized scores based on total marks, mean, and standard deviation. Then calculates the difficulty factor of respective board exam based on the TOP SCORES. 
+  Normalized marks = difficulty scale factor *  standard marks
+  Candidates are categorized as "Passed" or "Failed" based on their normalized scores.
+  [Passed - above mean,
+   Failed - below mean]
   - **Without Normalization:** Determines candidate results based on the total percentage of marks. Candidates scoring above a threshold (e.g., 90%) are marked as "Passed."
+
+- **USP:**
+  A comparison is shown between the previous method and new method selection
+  List of deserving candidates based on their total score is displayed before normalization.
+  List of deserving candidates based on their normalized score is displayed after normalization.
+  Then a table is displayed containing those undeserved candidates that were first selected(before normalization) but are rejected on the basis of their normalized score which is a fair and uniform criteria for selection.
+
 
 - **Visualize Results:**
   - **Histogram:** Displays the distribution of normalized scores for passed and failed candidates on a histogram.
